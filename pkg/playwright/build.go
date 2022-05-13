@@ -1,4 +1,4 @@
-package skeletor
+package playwright
 
 import (
 	"get.porter.sh/porter/pkg/exec/builder"
@@ -10,9 +10,9 @@ type BuildInput struct {
 	Config MixinConfig
 }
 
-// MixinConfig represents configuration that can be set on the skeletor mixin in porter.yaml
+// MixinConfig represents configuration that can be set on the playwright mixin in porter.yaml
 // mixins:
-// - skeletor:
+// - playwright:
 //	  clientVersion: "v0.0.0"
 
 type MixinConfig struct {
