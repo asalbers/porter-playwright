@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"get.porter.sh/mixin/asalbers/pkg/asalbers"
+	"github.com/asalbers/porter-playwright/pkg/playwright"
 	"github.com/spf13/cobra"
 )
 

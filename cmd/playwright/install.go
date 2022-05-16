@@ -1,7 +1,7 @@
 package main
 
 import (
-	"get.porter.sh/mixin/asalbers/pkg/asalbers"
+	"github.com/asalbers/playwright/pkg/playwright"
 	"github.com/spf13/cobra"
 )
 

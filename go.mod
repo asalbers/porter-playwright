@@ -1,4 +1,4 @@
-module get.porter.sh/asalbers/playwright
+module github.com/asalbers/playwright
 
 go 1.17
 

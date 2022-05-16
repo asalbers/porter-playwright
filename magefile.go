@@ -1,3 +1,4 @@
+//go:build mage
 // +build mage
 
 package main
@@ -15,7 +16,7 @@ import (
 
 const (
 	mixinName    = "playwright"
-	mixinPackage = "get.porter.sh/asalbers/playwright"
+	mixinPackage = "github.com/asalbers/porter-playwright/pkg"
 	mixinBin     = "bin/mixins/" + mixinName
 )
 
