@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/asalbers/playwright/pkg/playwright"
+	"github.com/asalbers/porter-playwright/pkg/playwright"
 	"github.com/spf13/cobra"
 )
 

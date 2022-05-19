@@ -1,4 +1,4 @@
-module github.com/asalbers/playwright
+module github.com/asalbers/porter-playwright
 
 go 1.17
 
