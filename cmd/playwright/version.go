@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/asalbers/porter-playwright/pkg/playwright"
-	"github.com/asalbers/porter-playwright/pkg/version"
+	"get.porter.sh/porter/pkg/porter/version"
 	"github.com/spf13/cobra"
 )
 
